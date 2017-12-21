@@ -14,7 +14,7 @@
   "author": "Justin Reynolds <jreynolds@netflix.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amplify-education/vizceral.git"
+    "url": "git+https://github.com/amplify-education/vizceral-react.git"
   },
   "keywords": [
     "traffic",
